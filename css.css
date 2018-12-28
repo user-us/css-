@@ -1,0 +1,11 @@
+html{font-size: 62.5%;color: #333;}
+@media only screen and (min-width: 481px) {
+	html{font-size: 94% !important;/* 10（480÷320）÷16=94% */}
+}
+@media only screen and (min-width: 561px) {
+	html{font-size: 109% !important;/* 10（480÷320）÷16=94% */}
+}
+@media only screen and (min-width:641px ) {
+	html{font-size: 125% !important;/* 10（480÷320）÷16=94% */}
+
+}
